@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:vovantri204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/vovantri123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Frontend+Developer;Software+Tester;Software+Engineering+Student" alt="Typing SVG" />
@@ -75,11 +74,14 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vovantri123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vovantri123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovantri123&layout=compact&langs_count=7&theme=radical"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vovantri123&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vovantri123&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vovantri123&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
